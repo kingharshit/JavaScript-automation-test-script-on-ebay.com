@@ -1,5 +1,5 @@
-# JavaScript-test-script-on-ebay.com
-Creating a test script for the following 2 scenarios on ebay.com
+# JavaScript-automation-test-script-on-ebay.com
+Creating a automation test script for the following 2 scenarios on ebay.com
 
 Hi Viewer,
 
